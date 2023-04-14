@@ -18,7 +18,7 @@ const Projects = () => {
     SwiperCore.use([Autoplay])
   return (
     
-    <section className="project container section">
+    <section className="project container section" id='projects'>
         <h2 className="section__title">Projects</h2>
         <span className="section__subtitle">Most of my projects are developed in React.js and uploaded to a repository on Github.</span>
 
@@ -47,7 +47,7 @@ const Projects = () => {
         >
             {Data.map(({id, image, title ,sub_title, description, repository, demo}) => {
                 return (
-                    <div>
+                    <div >
                     <SwiperSlide className="project__card" key={id}>
                     <div className="project__top">
                         <a href={demo}>
