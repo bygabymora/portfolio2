@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.dce7e203.css",
-    "main.js": "/static/js/main.a1af59c8.js",
+    "main.js": "/static/js/main.93caf3d4.js",
     "static/media/gymapp.gif": "/static/media/gymapp.604d5286e09f7b00a00d.gif",
     "static/media/shoppinglist.gif": "/static/media/shoppinglist.212bf971d4cf0fafd0f0.gif",
     "static/media/aboutImage.jpg": "/static/media/aboutImage.535808f1640293f03343.jpg",
@@ -11,10 +11,10 @@
     "static/media/Journey.png": "/static/media/Journey.6349bb823a368bb251fb.png",
     "index.html": "/index.html",
     "main.dce7e203.css.map": "/static/css/main.dce7e203.css.map",
-    "main.a1af59c8.js.map": "/static/js/main.a1af59c8.js.map"
+    "main.93caf3d4.js.map": "/static/js/main.93caf3d4.js.map"
   },
   "entrypoints": [
     "static/css/main.dce7e203.css",
-    "static/js/main.a1af59c8.js"
+    "static/js/main.93caf3d4.js"
   ]
 }
