@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio2/static/css/main.7113efc8.css",
-    "main.js": "/portfolio2/static/js/main.dafb8975.js",
-    "static/media/gymapp.gif": "/portfolio2/static/media/gymapp.604d5286e09f7b00a00d.gif",
-    "static/media/shoppinglist.gif": "/portfolio2/static/media/shoppinglist.212bf971d4cf0fafd0f0.gif",
-    "static/media/aboutImage.jpg": "/portfolio2/static/media/aboutImage.535808f1640293f03343.jpg",
-    "static/media/CarCare.gif": "/portfolio2/static/media/CarCare.6d8c844aee226ce96fcb.gif",
-    "static/media/Gabriela_Mora_Junior_Frontend_Developer.PDF": "/portfolio2/static/media/Gabriela_Mora_Junior_Frontend_Developer.ba80f0ed4bdd237df6ef.PDF",
-    "static/media/ByGabyMora2.png": "/portfolio2/static/media/ByGabyMora2.d9130164a4595ff11ae5.png",
-    "static/media/Journey.png": "/portfolio2/static/media/Journey.6349bb823a368bb251fb.png",
-    "index.html": "/portfolio2/index.html",
-    "main.7113efc8.css.map": "/portfolio2/static/css/main.7113efc8.css.map",
-    "main.dafb8975.js.map": "/portfolio2/static/js/main.dafb8975.js.map"
+    "main.css": "/static/css/main.dce7e203.css",
+    "main.js": "/static/js/main.a1af59c8.js",
+    "static/media/gymapp.gif": "/static/media/gymapp.604d5286e09f7b00a00d.gif",
+    "static/media/shoppinglist.gif": "/static/media/shoppinglist.212bf971d4cf0fafd0f0.gif",
+    "static/media/aboutImage.jpg": "/static/media/aboutImage.535808f1640293f03343.jpg",
+    "static/media/CarCare.gif": "/static/media/CarCare.6d8c844aee226ce96fcb.gif",
+    "static/media/Gabriela_Mora_Junior_Frontend_Developer.PDF": "/static/media/Gabriela_Mora_Junior_Frontend_Developer.ba80f0ed4bdd237df6ef.PDF",
+    "static/media/ByGabyMora2.png": "/static/media/ByGabyMora2.d9130164a4595ff11ae5.png",
+    "static/media/Journey.png": "/static/media/Journey.6349bb823a368bb251fb.png",
+    "index.html": "/index.html",
+    "main.dce7e203.css.map": "/static/css/main.dce7e203.css.map",
+    "main.a1af59c8.js.map": "/static/js/main.a1af59c8.js.map"
   },
   "entrypoints": [
-    "static/css/main.7113efc8.css",
-    "static/js/main.dafb8975.js"
+    "static/css/main.dce7e203.css",
+    "static/js/main.a1af59c8.js"
   ]
 }
